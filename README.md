@@ -1,1 +1,2 @@
 # Netflix-Stock-Prediction
+This empirical risk minimizer algorithm uses a squared loss function to calculate a linear regression line that predicts Netflix's stock price value. The calculated linear regression line is the best-fit line, modeled on data from the 5th of Feb 2018 to the 5th of Feb 2022. From this analysis, it is apparent that Netflix's stock price value trends upwards over time despite the day to day fluctuations.
